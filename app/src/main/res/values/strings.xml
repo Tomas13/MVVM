@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="task_marked_complete">Complete</string>
+    <string name="getuser">get user</string>
+</resources>
